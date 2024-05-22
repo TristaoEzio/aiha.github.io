@@ -28,3 +28,5 @@ In the payments segment, I worked on a project whose objective was to improve us
 The results were positive: in six months, there was a 10% increase in positive ratings in the stores, a 20% increase in the user retention rate and a 5% increase in the use of the app in challenging contexts.
 
 I have a specialized perspective in the area of Mobile App Development Engineering, while maintaining a generalist vision with comprehensive knowledge, focusing on generating value for the client in all phases of the project. I have a real passion for building products that impact and transform the daily lives of users, providing convenience, security and respect.
+
+> “Curiosity is more important than knowledge.” ― Albert Einstein
